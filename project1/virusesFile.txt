@@ -1,0 +1,12 @@
+HIV-1
+HIV-2
+FIV
+SIV
+Visna
+SARS
+COVID-19
+Enterovirus
+Influenza-C
+Herpesvirus
+Cowpox-virus
+West-Nile-virus
